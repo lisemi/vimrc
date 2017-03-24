@@ -1,5 +1,7 @@
 "=========================================================
-" vundle管理插件
+" vundle安装:
+"     git clone https://github.com/gmarik/vundle.git~/.vim/bundle/vundle
+" vundle管理插件(注意：要先安装vim才能使用下面的命令)
 " :BundleList          -列举出列表中(.vimrc中)配置的所有插件
 " :BundleInstall       -安装列表中全部插件
 " :BundleInstall!      -更新列表中全部插件
